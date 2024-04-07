@@ -1,0 +1,15 @@
+package primitiveAndRefrence;
+
+public class Dog {
+ String name;
+ 
+ public static void main (String[] args) {
+	 Dog dog1 = new Dog();
+	 
+ }
+ public void bark() {
+	 System.out.println(name + " says Ruff!");
+ }
+ public void ear() {}
+ public void chaseCat() {}
+}

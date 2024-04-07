@@ -1,0 +1,6 @@
+package classAndObjects;
+
+public class MovieTestDrive {
+  
+	public static void main(String[] args) {}
+}
